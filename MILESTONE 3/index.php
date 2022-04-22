@@ -38,6 +38,3 @@ Write a C program to convert Decimal to Hexadecimal number system.
 Write a C program to convert Hexadecimal to Binary number system.
 Write a C program to convert Hexadecimal to Octal number system.
 Write a C program to convert Hexadecimal to Decimal number system.
-Write a C program to print Pascal triangle upto n rows.
-Star pattern programs - Write a C program to print the given star patterns.
-Number pattern programs - Write a C program to print the given number patterns.
